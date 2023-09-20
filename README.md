@@ -40,14 +40,6 @@ USE ig_clone;
 # Create tables and define relationships (users, photos, comments, likes, follows, hashtags, photo_tags)
 ... (Insert SQL commands here)
 
-Contributing
-Contributions to improve and expand this database schema are welcome! Feel free to fork the repository, make changes, and submit a pull request.
-
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-
-You can customize and expand this README to include more details about your project, such as installation instructions, usage guidelines, and any additional features you plan to implement.
 
 
 
